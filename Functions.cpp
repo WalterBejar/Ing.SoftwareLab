@@ -7,7 +7,9 @@ int main()
 
 cout << "Hello world" << endl;
 
-cout << "Esta es la modificación" << endl;
+cout << "Esta es la modificaciï¿½n" << endl;
+
+cout << "Ing. de Sistemas UNSA" << endl;
 
 return 0;
 }
